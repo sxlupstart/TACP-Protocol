@@ -1,3 +1,12 @@
+/*
+ * TACP Protocol (Temporal Alignment & Causal Tracing Protocol)
+ * 
+ * Author: Xiaoliang Sun (遁君)
+ * Date: 2026-06-08
+ * License: MIT / Apache 2.0
+ * 
+ * "Solving Context Drift and Temporal Hallucination in LLMs."
+ */
 
 《从静态存储到动态演化：基于 Δ 轴的 AI 时空因果知识图谱构建》
 
