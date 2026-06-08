@@ -15,6 +15,9 @@ Delta_Axis:
   Description: "Brief description of the causal relationship for this generation"
 Jurisdiction: "Dunjun"
 ---
+```
+
+
 2. 校验与熔断机制 (Validation & Circuit Breaker)
 TACP 引擎在接收或生成信息时，必须执行以下校验：
 The TACP engine must execute the following validations when receiving or generating information:
